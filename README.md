@@ -1,5 +1,4 @@
-# Expenditure and Revenue Analysis of U.S education system
-## Link: 
+# Expenditure and Revenue Analysis of U.S education system 
 ### About the data
 U.S Revenue and Expenditure Analysis: “us-education-datasets-unification-project” is a Kaggle dataset that provides information about various states of U.S. Some information such as Financial data, Number of students enrolled and average score is provided in the data for different states. Our purpose is to utilize this data efficiently such that the variation of financial data is clear with the variation of other factors mentioned in the data.
 ### Initial Idea
